@@ -28,5 +28,7 @@ fin++;
 }
 return aux;
   } 	 
-    
+  public static void metodoFork(){
+      
+  }  
 }
